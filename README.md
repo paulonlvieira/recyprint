@@ -1,2 +1,2 @@
-# recyprint
+# recyprint.ca
 Recyprint Canada
